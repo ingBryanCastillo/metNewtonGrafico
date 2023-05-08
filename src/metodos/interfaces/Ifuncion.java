@@ -6,7 +6,7 @@ package metodos.interfaces;
 
 /**
  *
- * @author Alex
+ * @author Bryan
  */
 public interface Ifuncion {
     public abstract double eval(double x);
